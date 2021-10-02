@@ -13,5 +13,11 @@
         android:layout_height="match_parent"
         android:id="@+id/rv_heroes"
         tools:listitem="@layout/item_row_hero"/>
+    
+       <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/rv_heroes"
+        tools:listitem="@layout/item_row_hero"/>
 
 </RelativeLayout>
